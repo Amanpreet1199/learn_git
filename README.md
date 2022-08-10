@@ -4,8 +4,13 @@
 
 ### Create A git Repo 
 
-1) git init -> Create brand new repositories (repos) on your computer.
+```bash
+# create brand new repositories (repos) on your computer
+git init
 
-2) git clone -> Clone or copy existing repos fro, somewhere else to your local computer.
+# clone or copy existing repos fro, somewhere else to your local computer
+git clone
 
-3) git status -> check the status of a repo
+# check the status of a repo
+git status
+```
